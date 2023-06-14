@@ -1,0 +1,15 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "chat app by cwh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghav",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.21",
+    "socket.io": "^4.6.1"
+  }
+}
